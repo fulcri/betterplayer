@@ -1,5 +1,4 @@
 import 'package:collection/collection.dart';
-
 import 'scheme_data.dart';
 
 class DrmInitData {
